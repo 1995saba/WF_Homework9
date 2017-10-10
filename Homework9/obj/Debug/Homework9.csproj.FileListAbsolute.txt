@@ -1,0 +1,11 @@
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\bin\Debug\Homework9.exe.config
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\bin\Debug\Homework9.exe
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\bin\Debug\Homework9.pdb
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.MainForm.resources
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.Properties.Resources.resources
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.csproj.GenerateResource.Cache
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.csproj.CoreCompileInputs.cache
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.exe
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.pdb
+c:\users\орунбаевас.corp\source\repos\Homework9\Homework9\obj\Debug\Homework9.EditForm.resources
